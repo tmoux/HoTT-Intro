@@ -2,8 +2,8 @@
 
 module SAT-solver where
 
-import 12-univalence
-open 12-univalence public
+import 14-univalence
+open 14-univalence public
 
 {- The literates are atomic propositions or negations thereof. We simply use 
    the natural numbers to encode the atomic propositions, and we use the 

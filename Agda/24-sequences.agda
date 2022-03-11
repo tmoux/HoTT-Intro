@@ -1,9 +1,9 @@
 {-# OPTIONS --without-K --exact-split --allow-unsolved-metas #-}
 
-module 20-sequences where
+module 24-sequences where
 
-import 19-id-pushout
-open 19-id-pushout public
+import 23-id-pushout
+open 23-id-pushout public
 
 {- We introduce two types of sequences: one with the arrows going up and one
    with the arrows going down. -}

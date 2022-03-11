@@ -1,6 +1,6 @@
 {-# OPTIONS --cubical #-}
 
-open import 10-number-theory
+open import 17-number-theory
 open import Cubical.Core.Everything
 
 data circle-C : UU lzero where

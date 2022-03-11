@@ -1,6 +1,6 @@
 {-# OPTIONS --cubical #-}
 
-open import 16-number-theory public
+open import 17-number-theory public
 
 {- streams -}
 

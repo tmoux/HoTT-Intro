@@ -1,9 +1,9 @@
 {-# OPTIONS --without-K --exact-split --allow-unsolved-metas #-}
 
-module 19-id-pushout where
+module 23-id-pushout where
 
-import 18-descent
-open 18-descent public
+import 22-descent
+open 22-descent public
 
 -- Section 19.1 Characterizing families of maps over pushouts
 

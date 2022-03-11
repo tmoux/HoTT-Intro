@@ -2,8 +2,8 @@
 
 module subgroups where
 
-import 13-groups
-open 13-groups public
+import 15-groups
+open 15-groups public
 
 {- Subsets of groups -}
 

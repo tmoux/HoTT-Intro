@@ -1,9 +1,9 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --without-K --cubical #-}
 
 module combinatorial-objects where
 
-import 12-univalence
-open 12-univalence public
+import 14-univalence
+open 14-univalence public
 
 {- The type ℍ of hereditarily finite types is introduces as an inductive type.
 
